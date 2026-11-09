@@ -1,0 +1,2 @@
+agent,episodes,training_steps,reward_mean,reward_std,score_mean,score_std,lines_mean,lines_std,pieces_mean,pieces_std
+ddqn_b,20,795000,32.2325,69.41750551819348,685.0,484.79512764617766,6.2,4.007886961322243,56.2,10.680035481904396
